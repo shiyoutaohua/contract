@@ -1,0 +1,9 @@
+{
+  "name": "contract-let",
+  "dependencies": {},
+  "devDependencies": {
+    "hardhat": "^2.22.4",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
